@@ -1706,7 +1706,11 @@ body {
   }
 }
 .cid-qvpN3FNxd5 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-1631x1080.jpg");
+}
+.cid-qvpN3FNxd5 H1 {
+  color: #232323;
+  text-align: center;
 }
 .cid-qvpN3HtxoP {
   padding-top: 60px;
