@@ -1747,6 +1747,23 @@ body {
     width: 100% !important;
   }
 }
+.cid-qyIcfHn9fq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qyIcfHn9fq h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qyIcfHn9fq p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qyIcfHn9fq .card-box {
+  padding-top: 2rem;
+}
 .cid-qvYM6uPuYo {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1808,6 +1825,33 @@ body {
   background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qyI0mYLNqw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qyI0mYLNqw .title {
+  margin-bottom: 2rem;
+}
+.cid-qyI0mYLNqw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qyI0mYLNqw a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qyI0mYLNqw a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qyI0mYLNqw .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qyI0mYLNqw .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qvpN3HtxoP {
   padding-top: 60px;
@@ -1878,47 +1922,4 @@ body {
 }
 .cid-qvpN3HtxoP P {
   text-align: left;
-}
-.cid-qyI0mYLNqw {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qyI0mYLNqw .title {
-  margin-bottom: 2rem;
-}
-.cid-qyI0mYLNqw .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qyI0mYLNqw a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qyI0mYLNqw a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qyI0mYLNqw .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qyI0mYLNqw .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-qyI4iPSe02 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-qyI4iPSe02 .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-}
-.cid-qyI4iPSe02 .mbr-author-name {
-  font-weight: bold;
-}
-.cid-qyI4iPSe02 .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
 }
